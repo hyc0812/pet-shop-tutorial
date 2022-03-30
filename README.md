@@ -11,21 +11,25 @@
 
 > Dog Adoption website based on blockchain smart contract.
 
-### 🏠 [Homepage](localhost:8545)
+## prerequsites
+- Node.js installed
+- ganache installed
+- truffle installed
+- MetaMask installed
 
-### ✨ [Demo](localhost:8545)
-
-## Install
-
+## Run the project
+1. Run ganache: the easiest way is to use UI. PRC server: http://127.0.0.1:8545   Network ID: 1337;
+2. Run truffle:
+```sh
+truffle compile
+truffle migration
+```
+3. Run the project
 ```sh
 npm run dev
 ```
-
-## Usage
-
-```sh
-npm
-```
+4. Connect your MetaMask to localhost 8545;
+5. Have fun!
 
 ## Author
 
