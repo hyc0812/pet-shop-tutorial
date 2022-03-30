@@ -18,7 +18,7 @@
 - MetaMask installed
 
 ## Run the project
-1. Run ganache: the easiest way is to use UI. PRC server: http://127.0.0.1:8545   Network ID: 1337;
+1. Run ganache: the easiest way is to use UI. PRC server: http://127.0.0.1:8545,  Network ID: 1337;
 2. Run truffle:
 ```sh
 truffle compile
